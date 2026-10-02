@@ -1,0 +1,15 @@
+package praktikum1;
+
+import java.util.Scanner;
+
+public class latihan1 {
+	public static void main(String[] args) {
+		System.out.println("Program Menghitung Volume Balok\n");
+		
+		Balok balok = new Balok();
+		Scanner scanner = new scanner(System.in);
+		
+		
+		
+	}
+}

@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\LK4_17\OneDrive\Desktop\LAB PBO 252310017_SHERWIN\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4240583666.index
+3413270776.index

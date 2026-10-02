@@ -1,0 +1,27 @@
+package praktikum1;
+
+public class Dog {
+String breed;
+int age;
+String color;
+
+void barking() {
+	System.out.println("woof.. woof..");
+}
+
+void hungry() {
+	System.out.println("woof.. its time for lunch");
+	
+}
+
+void deeping() {
+	System.out.println("snooring.. zzz.. zzz..");
+	
+}
+
+void puppyName(String name) {
+	System.out.println("My puppy name is");
+	
+}
+}
+
