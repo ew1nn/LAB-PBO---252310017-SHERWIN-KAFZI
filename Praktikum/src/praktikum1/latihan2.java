@@ -1,6 +1,6 @@
 package praktikum1;
 
-public class latihan2 {
+public class latihan2 
 	import java.util.Scanner;
 
 	public class latihan2 {
