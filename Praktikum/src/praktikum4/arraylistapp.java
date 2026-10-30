@@ -29,5 +29,7 @@ public class arraylistapp {
 			System.out.println(nama.get(i));
 		}
 		
+		nama.clear(); // menghapus semua data
+		System.out.println(nama.size());
 	}
 }
